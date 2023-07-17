@@ -17,11 +17,12 @@ redirect_from:
 
 ### Work experience
 
-- Dec 2020 - now: research fellow at Deakin University
-- Feb 2020 - Nov 2020: data scientist at Credit AI Pty Ltd
-- July 2018 - Feb 2020: junior research scientist at Credit AI Pty Ltd
-- Mar 2018 - Jun 2018: research intern at Credit AI Pty Ltd
-- Oct 2001 - Nov 2012: lecturer at Can Tho University
+- Apr 2023 - now: Assistant Lecturer at Monash University
+- Jan 2023 - Apr 2023: Research Assistant at Monash University
+- May 2021 - Dec 2022: Applied Data Scientist at VinAI Research
+- Dec 2020 - May 2021: Research Fellow at Deakin University
+- July 2018 - Nov 2020: Data Scientist at Credit AI Pty Ltd
+- Oct 2001 - Nov 2012: Lecturer at Can Tho University
   
 <!-- Publications
 ======
