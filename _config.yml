@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thanh-Binh Nguyen"
 title_separator          : "-"
 name                     : &name "Thanh-Binh Nguyen"
-description              : &description "Researh Fellow at Deakin University"
+description              : &description "Assistant Lecturer at Monash University"
 url                      : https://binh-ml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "binh-ml.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thanh-Binh Nguyen"
   avatar           : "profile.png"
-  bio              : "Research Fellow at School of IT, Deakin University, Australia."
+  bio              : "Assistant Lecturer at Department of Data Science and AI, Faculty of Information Technology, Monash University, Australia."
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
